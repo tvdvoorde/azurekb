@@ -57,13 +57,31 @@ Virtualization-based security (VBS) and code integrity policies (in 1709 known a
 
 On premises analysis of authentication traffic. Agent on DC's or agent on span or mirror port on switch.
 
-## Microsoft Azure Advaned Threat Protection
+## Microsoft Azure Advanced Threat Protection
+
+Cloud equivalent of Microsoft Advanced Threat Analytics 
 
 ## Office 365
 
+Productivity suite of e-mail, messaging, document management, security
+
 ## Microsoft 365
 
+Combination of Office 365, Windows 10 Enterprise and the Enterprise Mobility + Security (EMS) suite
+
 ## Enterprise Mobility + Security
+
+Combination of various products
+
+-Intune
+-SCCM (including client CAL)
+-Azure Information Protection
+-Azure Active Directory Premium
+-Multi Factor Authentication (cloud and on-premises)
+-Server Client Access License (CAL)
+-Conditional Access
+-Data Loss Prevention
+-Endpoint protection license
 
 ## Azure Information Protection
 
