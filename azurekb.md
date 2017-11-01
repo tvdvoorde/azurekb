@@ -164,11 +164,18 @@ Cross platform mobile application development
 
 - SQL Database
 - SQL Data Warehouse
-- DocumentDB
 - SQL Server Stretch Database
-- Redis Cache
 - Storage Tables
 - Azure Search
+
+### DocumentDB
+
+Globally distributed database system, multi model, multi API
+
+### Redis Cache
+
+Azure Redis Cache is based on the popular open source Redis cache. It gives you access to a secure, dedicated Redis cache, managed by Microsoft and accessible from any application within Azure.
+
 	
 ## INTELLIGENCE
 
@@ -177,6 +184,7 @@ Cross platform mobile application development
 - Cortana
 
 ## ANALYTICS & IOT
+- Hadoop
 - HDInsight
 - Machine Learning
 - Stream Analytics
