@@ -9,7 +9,7 @@
 `Install-Module AzureRM` for AzureRM (Resource Manager) commandlets
 
 
-
+# Cloud security services / Office 365 / EM+S
 
 ## Project Centennial
 
@@ -219,32 +219,57 @@ Azure Redis Cache is based on the popular open source Redis cache. It gives you 
 - Azure Site Recovery
 - StorSimple
 
-## COMPUTE
 
+# AZURE PORTAL
+
+## COMPUTE
 ### Virtual Machines
 Hosted virtual machines, no high availability on the hypervisor. Machines goed down when moved to another host. Possibility to group machines in availability sets to eliminate down time during maintenance or outages. Software redundancy is required. 
-
-### Containers
-### Azure Service Fabric
+### Virtual Machine scale sets
+### Container services
+### Batch accounts
+### Azure Service Fabric Clusters
+### Container registries
+### Availability sets
+### Disks
+### Snapshots
+### Images
+### Function Apps
 ### Azure Container Services
 ### Kubernetes
 ### Azure Functions
 
-
-## STORAGE
-### Blob
-### Queues
-### Files
-### Disks
-
 ## NETWORKING
 ### Virtual Networks
 ### Load Balancer
-### DNS
-### Express Route
+### Application Gateways
+### Virtual network gateways
+### Local network gateways
+### DNS Zones
+### Route tables
+### CDN profiles
 ### Traffic Manager
+### Express Route
+### Network Watches
+### Network security groups
+### Network security groups (classic)
+### Network interfaces
+### Public IP addresses
+### Connections
 ### VPN Gateway
 ### App Gateway
+
+## STORAGE
+### Storage acocunts
+#### Blob
+#### Queues
+#### Files
+#### Disks
+### StorSimple Device Managers
+### Recovery Services Vaults
+### Import/export jobs
+
+
 
 
 
