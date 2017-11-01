@@ -116,28 +116,31 @@ seamless Single Sign On
 ### ADFS
 Active Directory Federation Services
 
+# Azure
 
-## MEDIA & CDN
+## Media & Content Delivery Networks (CDN)
 
 - Media Services
 - Media Analytics
 - Content Delivery Network
 
-## INTEGRATION
+## Integration
 
 - API Management
 - BizTalk Services
 - Logic Apps
 - Service Bus
 
-## COMPUTE SERVICES
+## Compute Services
+
 - Container Service
 - VM SCale Sets
 - Batch
 - RemoteApp*
 - Dev/Test Lab
 
-## APPLICATION PLATFORM
+## Application Platform
+
 - Web Apps
 - Mobile Apps
 - API Apps
@@ -146,15 +149,19 @@ Active Directory Federation Services
 - Notification Hubs
 - Functions
 
-## DEVELOPER SERVICES
-- Visual Studio
-- Mobile Engagement
-- VS Team Services
-- Xamarin
-- Application Insights
-- HockeyApp
+## Developer Services
 
-## DATA
+### Visual Studio
+### Mobile Engagement
+### VS Team Services
+### Application Insights
+### HockeyApp
+### Xamarin
+
+Cross platform mobile application development
+
+## Data
+
 - SQL Database
 - SQL Data Warehouse
 - DocumentDB
@@ -164,6 +171,7 @@ Active Directory Federation Services
 - Azure Search
 	
 ## INTELLIGENCE
+
 - Cognitive Services
 - Bot Framework
 - Cortana
@@ -204,7 +212,10 @@ Active Directory Federation Services
 - StorSimple
 
 ## COMPUTE
+
 ### Virtual Machines
+Hosted virtual machines, no high availability on the hypervisor. Machines goed down when moved to another host. Possibility to group machines in availability sets to eliminate down time during maintenance or outages. Software redundancy is required. 
+
 ### Containers
 ### Azure Service Fabric
 ### Azure Container Services
@@ -213,19 +224,19 @@ Active Directory Federation Services
 
 
 ## STORAGE
-- Blob
-- Queues
-- Files
-- Disks
+### Blob
+### Queues
+### Files
+### Disks
 
 ## NETWORKING
-- Virtual Networks
-- Load Balancer
-- DNS
-- Express Route
-- Traffic Manager
-- VPN Gateway
-- App Gateway
+### Virtual Networks
+### Load Balancer
+### DNS
+### Express Route
+### Traffic Manager
+### VPN Gateway
+### App Gateway
 
 
 
