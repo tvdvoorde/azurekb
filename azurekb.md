@@ -47,6 +47,8 @@ Requires TPM v2.0, secureboot, virtualization (SLAT). Can be enabled in Hyper-V 
 
 ## Windows Defender Device Guard
 
+Virtualization-based security (VBS) and code integrity policies (in 1709 known as Windows Defender Application Control)
+
 ## Windows Defender Controlled Folder Access
 
 *requires Windows 10 1709*
