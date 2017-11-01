@@ -73,15 +73,15 @@ Combination of Office 365, Windows 10 Enterprise and the Enterprise Mobility + S
 
 Combination of various products
 
--Intune
--SCCM (including client CAL)
--Azure Information Protection
--Azure Active Directory Premium
--Multi Factor Authentication (cloud and on-premises)
--Server Client Access License (CAL)
--Conditional Access
--Data Loss Prevention
--Endpoint protection license
+- Intune
+- SCCM (including client CAL)
+- Azure Information Protection
+- Azure Active Directory Premium
+- Multi Factor Authentication (cloud and on-premises)
+- Server Client Access License (CAL)
+- Conditional Access
+- Data Loss Prevention
+- Endpoint protection license
 
 ## Azure Information Protection
 
